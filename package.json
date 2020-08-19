@@ -1,0 +1,24 @@
+{
+  "name": "vue_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LTurns/vue.js-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LTurns/vue.js-practice/issues"
+  },
+  "homepage": "https://github.com/LTurns/vue.js-practice#readme",
+  "dependencies": {
+    "bootstrap-vue": "^2.16.0",
+    "vue": "^2.6.11",
+    "vue-router": "^3.4.3"
+  }
+}
